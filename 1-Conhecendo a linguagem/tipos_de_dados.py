@@ -1,0 +1,5 @@
+print(11 + 10 + 100 + 1000)
+print(1.5 + 2.5 + 3.5 + 4.5)
+print(True)
+print(False)
+print('python')
