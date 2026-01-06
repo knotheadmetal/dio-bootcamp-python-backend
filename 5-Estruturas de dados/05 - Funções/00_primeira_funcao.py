@@ -1,12 +1,12 @@
-def exibir_mensagem():
+def exibir_mensagem(): # Função sem parâmetros
     print("Olá mundo!")
 
 
-def exibir_mensagem_2(nome):
+def exibir_mensagem_2(nome): # Função com um parâmetro
     print(f"Seja bem vindo {nome}!")
 
 
-def exibir_mensagem_3(nome="Anônimo"):
+def exibir_mensagem_3(nome="Anônimo"): # Função com um parâmetro padrão
     print(f"Seja bem vindo {nome}!")
 
 
